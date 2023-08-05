@@ -22,7 +22,7 @@ In C programming, data types are used to define the type of data that a variable
 #### Enumerated Data Type
 
 - **Enum** Used to define a custom data type consisting of a set of named **constants** called enumerators.
-- 
+  
 #### Derived Data Types
 
 - **array** A collection of elements of the **same** data type.
@@ -42,6 +42,3 @@ Each data type has a specific range of values it can hold, and the size of the d
 
 - [C prog](https://www.w3schools.com/c/c_intro.php)
 - [C programming](https://www.programiz.com/c-programming)
-- []()
-- []()
-- []()
